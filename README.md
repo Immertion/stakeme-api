@@ -21,6 +21,6 @@ $ npm run start
 
 ## SQL
 
-https://onecompiler.com/postgresql/42hzwyhjk
+https://onecompiler.com/postgresql/42j2mue29
 
 Минимизировать cost решил решил с помощью индексов(b-tree)
