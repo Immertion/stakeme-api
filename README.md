@@ -23,4 +23,4 @@ $ npm run start
 
 https://onecompiler.com/postgresql/42hzwyhjk
 
-Минимизировать решил cost решил с помощью индексов(b-tree)
+Минимизировать cost решил решил с помощью индексов(b-tree)
